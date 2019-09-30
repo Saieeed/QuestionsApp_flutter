@@ -1,0 +1,4 @@
+#Fri Sep 27 22:27:34 EET 2019
+base.0=C\:\\Users\\saiee\\Desktop\\quizzler-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
